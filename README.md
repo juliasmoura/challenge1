@@ -4,7 +4,7 @@ Bem-vindo ao repositório do nosso desafio Frontend Mentor para o processo de tr
 
 ## Visão Geral
 
-O objetivo deste projeto é concluir o desafio proposto pelo Frontend Mentor (https://www.frontendmentor.io/) como parte do processo de seleção da IJunior. O desafio consiste em criar uma página da web com base em um design fornecido, aplicando HTML e CSS para reproduzir fielmente o layout proposto.
+O objetivo deste projeto é concluir o desafio proposto pelo Frontend Mentor (https://www.frontendmentor.io/) como parte do processo de seleção da IJunior. O desafio consiste em criar uma página da web com base em um design fornecido, aplicando HTML e CSS para reproduzir o layout proposto mais próximo do oficial.
 
 ## Tecnologias Utilizadas
 
