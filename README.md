@@ -16,4 +16,3 @@ O objetivo deste projeto é concluir o desafio proposto pelo Frontend Mentor (ht
 Para executar este projeto localmente, você precisa de um ambiente de desenvolvimento com suporte a HTML e CSS. Você pode clonar este repositório usando o seguinte comando:
 
 ```bash
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
